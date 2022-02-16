@@ -1,2 +1,3 @@
 # Aura
-base code for Phase One
+Phase 1 Base Code
+Phase 1 Requirements
